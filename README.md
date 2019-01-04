@@ -1,3 +1,9 @@
+Square Photos
+===================
+
+A social media website based around sharing photographs.
+
+
 Instagram Challenge
 ===================
 
